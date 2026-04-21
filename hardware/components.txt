@@ -1,0 +1,5 @@
+ESP32 / STM32
+Pulse Sensor / Photodiodes
+OLED Display
+Power Module
+Resistors and Capacitors
