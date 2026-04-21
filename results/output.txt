@@ -1,0 +1,7 @@
+Sample Output:
+
+Heart Rate: 78 BPM
+SpO2: 96%
+Respiratory Rate: 18
+
+Status: Stable
